@@ -1,0 +1,235 @@
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\SmartMeal.Droid.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\SmartMeal.Droid.pdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\com.smart.meals.apk
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\com.smart.meals-Signed.apk
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\SmartMeal.Core.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\System.Spatial.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\SmartMeal.Core.pdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\Microsoft.WindowsAzure.Storage.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\System.Spatial.xml
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\SmartMeal.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\SmartMeal.Droid.dll
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\SmartMeal.Droid.pdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\android\bin\com.smart.meals.apk
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\res\layout\signin.xml
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\res\layout\mainoptions.xml
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\res\layout\newsfeedfragment.xml
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\res\layout\mymealsfragment.xml
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\res\layout\addmealfragment.xml
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\res\layout\newsfeedrow.xml
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\res\layout\mymealsrow.xml
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\res\layout\mymealsdetail.xml
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\res\layout\createaccount.xml
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\res\layout\gradeslist.xml
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\res\layout\gradesrow.xml
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\res\values\strings.xml
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\res\drawable\mainbanner.jpg
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\res\drawable\camera.png
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\res\drawable\addphoto.png
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\res\drawable\heart.png
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\res\drawable\plus.png
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\res\drawable\list.png
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\res\drawable\calendar.png
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\res\drawable\thumbsup.png
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\res\drawable\x.png
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\res\drawable\diary.png
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\R.cs.flag
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\uploadflags.txt
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\SmartMeal.Droid.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\SmartMeal.Core.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\System.Diagnostics.Tracing.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\System.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\System.IO.Compression.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\System.Runtime.Serialization.Primitives.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\Microsoft.WindowsAzure.Storage.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\SmartMeal.Core.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\SmartMeal.Droid.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\System.Diagnostics.Tracing.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\System.IO.Compression.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Eddie\Google Drive\CodeLibrary\Xamarin\XamarinNative\SmartMeal\SmartMeal\SmartMeal.Droid\obj\Debug\SmartMeal.Droid.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\SmartMeal.Droid.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\SmartMeal.Droid.pdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\com.smart.meals.apk
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\com.smart.meals-Signed.apk
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\SmartMeal.Core.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\System.Spatial.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\SmartMeal.Core.pdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\Microsoft.WindowsAzure.Storage.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\System.Spatial.xml
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\SmartMeal.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\SmartMeal.Droid.dll
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\SmartMeal.Droid.pdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\android\bin\com.smart.meals.apk
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\res\layout\signin.xml
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\res\layout\mainoptions.xml
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\res\layout\newsfeedfragment.xml
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\res\layout\mymealsfragment.xml
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\res\layout\addmealfragment.xml
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\res\layout\newsfeedrow.xml
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\res\layout\mymealsrow.xml
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\res\layout\mymealsdetail.xml
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\res\layout\createaccount.xml
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\res\layout\gradeslist.xml
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\res\layout\gradesrow.xml
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\res\values\strings.xml
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\res\drawable\mainbanner.jpg
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\res\drawable\camera.png
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\res\drawable\addphoto.png
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\res\drawable\heart.png
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\res\drawable\plus.png
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\res\drawable\list.png
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\res\drawable\calendar.png
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\res\drawable\thumbsup.png
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\res\drawable\x.png
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\res\drawable\diary.png
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\R.cs.flag
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\uploadflags.txt
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\SmartMeal.Droid.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\SmartMeal.Core.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\System.Diagnostics.Tracing.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\System.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\System.IO.Compression.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\System.Runtime.Serialization.Primitives.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\Microsoft.WindowsAzure.Storage.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\SmartMeal.Core.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\SmartMeal.Droid.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\System.Diagnostics.Tracing.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\System.IO.Compression.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\obj\Debug\SmartMeal.Droid.dll.mdb
+C:\Users\Carrie Dumit\Google Drive\SmartMeal\SmartMeal.Droid\bin\Debug\SmartMeal.Droid.dll.mdb
